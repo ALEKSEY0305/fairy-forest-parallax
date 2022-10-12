@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-:root {
+/* :root {
     
-}
+} */
 
 @font-face {
     font-family: raleway_f;
@@ -34,28 +34,11 @@ body {
     justify-content: center;
     text-align: center;
 }
-.layers__header {
-}
-.layers__catpion {
-}
-.layers__title {
-}
+
 .layer {
     height: 100%;
     width: 100%;
     position: absolute;
     background-size: cover;
     background-position: center;
-}
-.layers__base {
-}
-.layers__front {
-}
-.main-article {
-}
-.main-article__content {
-}
-.main-article__header {
-}
-.copy {
 }
